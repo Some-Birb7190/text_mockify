@@ -13,7 +13,7 @@ This program can be used without any autohotkey interpreter.
   
 The text you copied should be printed in alternating cases.  
 ### Using the AHK file:  
-To use the AHK file, follow the [autohotkey documentation for running scripts](https://www.autohotkey.com/docs/v2/Program.htm#run).   
+To use the AHK file, follow the [autohotkey documentation for running scripts](https://www.autohotkey.com/docs/v1/Program.htm#run).   
 ## Examples  
 1. Basic text:  
 ![Basic text gif](docs_content/plain_text.gif)  
