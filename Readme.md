@@ -21,4 +21,4 @@ To use the AHK file, follow the [autohotkey documentation for running scripts](h
 ![Interrupted text gif](docs_content/interrupted_text.gif)  
 ## Notes  
 When I tried to use this on Linux via Wine, I couldn't get it to work, therefore I'm not going to claim if it does or doesn't. I won't provide support for that.  
-If you do happen to spot any problems or errors that are indepenent from your environment and are reproducable, please feel free to leave an issue.
+If you do happen to spot any problems or errors that are independent from your environment and are reproducable, please feel free to leave an issue.
